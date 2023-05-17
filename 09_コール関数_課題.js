@@ -19,11 +19,5 @@ let b5 = a.filter(function(e) {
 	false;
 }
 });
-
-console.log(b3);
-console.log(b5);
-
-
-/* console.log(a);
- 
-> [0, 1, 2, 3, 4, 5, 6, 7, 8, 9] */
+console.log('b3回答:' + b3);
+console.log('b5回答:' + b5);
